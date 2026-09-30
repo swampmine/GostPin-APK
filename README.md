@@ -1,6 +1,6 @@
 # GhostPin Android APK
 
-Official distribution repository for **GhostPin** (SwampMine GPS Emulator).
+Official distribution repository for **GhostPin** (SwampMine GPS Spoof).
 
 ## 📥 Download Options
 
